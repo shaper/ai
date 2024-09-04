@@ -1,5 +1,14 @@
 # @ai-sdk/anthropic
 
+## 0.0.49
+
+### Patch Changes
+
+- 3be7c1c: fix (provider/anthropic): support prompt caching on assistant messages
+- Updated dependencies [3be7c1c]
+  - @ai-sdk/provider@0.0.23
+  - @ai-sdk/provider-utils@1.0.18
+
 ## 0.0.48
 
 ### Patch Changes

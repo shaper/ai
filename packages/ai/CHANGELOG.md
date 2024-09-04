@@ -1,5 +1,19 @@
 # ai
 
+## 3.3.27
+
+### Patch Changes
+
+- 3be7c1c: fix (provider/anthropic): support prompt caching on assistant messages
+- Updated dependencies [3be7c1c]
+  - @ai-sdk/provider@0.0.23
+  - @ai-sdk/provider-utils@1.0.18
+  - @ai-sdk/ui-utils@0.0.41
+  - @ai-sdk/react@0.0.55
+  - @ai-sdk/solid@0.0.44
+  - @ai-sdk/svelte@0.0.46
+  - @ai-sdk/vue@0.0.46
+
 ## 3.3.26
 
 ### Patch Changes
